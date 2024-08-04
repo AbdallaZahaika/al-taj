@@ -35,11 +35,11 @@ For the purposes of this Privacy Policy:
     more of the shares, equity interest or other securities entitled to vote
     for election of directors or other managing authority.
 
-  * Application refers to رياض المجد, the software program provided by the
+  * Application refers to al-taj, the software program provided by the
     Company.
 
   * Company (referred to as either "the Company", "We", "Us" or "Our" in this
-    Agreement) refers to رياض المجد.
+    Agreement) refers to al-taj.
 
   * Country refers to: Israel
 
